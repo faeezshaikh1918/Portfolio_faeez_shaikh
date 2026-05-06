@@ -17,7 +17,7 @@ export default function App() {
       <Skills />
       <Projects />
       <Experience />
-      <Resume />
+      {/* <Resume /> */}
       <Contact />
     </div>
   );

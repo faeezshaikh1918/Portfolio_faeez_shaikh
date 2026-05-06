@@ -2,7 +2,7 @@ import { Code2, Layers, Zap, Coffee } from "lucide-react";
 
 const stats = [
   { value: "2+", label: "Years Learning Experience" },
-  { value: "12+", label: "Projects Completed" },
+  { value: "10+", label: "Projects Completed" },
   { value: "8+", label: "Internship Tasks Done" },
   { value: "6+", label: "Tech Skills" },
 ];
